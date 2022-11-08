@@ -6,5 +6,4 @@ and occupancy grid mapping, and then (globally) relocalize into that map using M
 localization (MCL). 
 
 Components : 
-Map acquisition using Cartographer
-Global relocalization using AMCL
+Map acquisition using Cartographer & Global relocalization using AMCL
